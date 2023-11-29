@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "categoria": "iPhone",
+        "nombre": "iPhone 13",
+        "memoria": "128GB",
+        "stock": 10,
+        "precio": 999.99,
+        "imagen": "https://tecnotiendadigital.com/wp-content/uploads/iPHONE-13.jpg"
+    },
+    {
+        "id": 2,
+        "categoria": "iPhone",
+        "nombre": "iPhone 13 Pro",
+        "memoria": "256GB",
+        "stock": 8,
+        "precio": 1199.99,
+        "imagen": "https://cdn-ipoint.waugi.com.ar/22532-large_default/iphone-13-pro-128gb-gold.jpg"
+    },
+    {
+        "id": 3,
+        "categoria": "iPhone",
+        "nombre": "iPhone SE",
+        "memoria": "64GB",
+        "stock": 12,
+        "precio": 399.99,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_838939-MLA69244626562_052023-O.webp"
+    },
+    {
+        "id": 4,
+        "categoria": "Mac",
+        "nombre": "MacBook Air",
+        "memoria": "256GB",
+        "stock": 9,
+        "precio": 1299.99,
+        "imagen": "https://www.ventasrosario.com.ar/wp-content/uploads/2023/06/macbook-air-nuevo-apple-15-pulgadas-647e1748844f5.jpg"
+    },
+    {
+        "id": 5,
+        "categoria": "Mac",
+        "nombre": "MacBook Pro",
+        "memoria": "512GB",
+        "stock": 7,
+        "precio": 1999.99,
+        "imagen": "https://www.macstation.com.ar/img/productos/3011-mnej3le-a.jpg"
+    },
+    {
+        "id": 6,
+        "categoria": "Mac",
+        "nombre": "iMac",
+        "memoria": "1TB",
+        "stock": 11,
+        "precio": 1499.99,
+        "imagen": "https://celutronic.com/wp-content/uploads/2017/09/1000207165_x2-1.jpg"
+    }
+]
